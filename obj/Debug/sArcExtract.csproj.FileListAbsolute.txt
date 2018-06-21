@@ -1,0 +1,7 @@
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\bin\Debug\sArcExtract.exe.config
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\bin\Debug\sArcExtract.exe
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\bin\Debug\sArcExtract.pdb
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\obj\Debug\sArcExtract.csprojAssemblyReference.cache
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\obj\Debug\sArcExtract.csproj.CoreCompileInputs.cache
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\obj\Debug\sArcExtract.exe
+C:\Users\Dane\source\repos\sArcExtract\sArcExtract\obj\Debug\sArcExtract.pdb
